@@ -1,5 +1,9 @@
-### Hi there 👋
+# Sup, Chase here!
 
+I'm Chase Blakemore, known by some as Zanctarian, and I do occasional code things.
+- Strongest Languages: Rust / Java
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanctarian&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zanctarian/Zanctarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
